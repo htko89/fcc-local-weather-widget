@@ -19,7 +19,7 @@ course: "09 - Intermediate Front End Development Projects"
 project: "01 - Show the Local Weather"
 ---
 # Student Project - Free Code Camp
-Build a CodePen.io app that is functionally similar to this: http://codepen.io/FreeCodeCamp/full/bELRjV.
+Build an app that is functionally similar to this: http://codepen.io/FreeCodeCamp/full/bELRjV/
 
 ## Project Criteria:
 * Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
