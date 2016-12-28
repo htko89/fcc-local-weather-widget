@@ -2,7 +2,7 @@
 type: "folio"
 draft: false
 date: "2016-08-03"
-title: "Local Weather App"
+title: "Local Weather Widget"
 parent: "fcc"
 topics:
   - "code"
