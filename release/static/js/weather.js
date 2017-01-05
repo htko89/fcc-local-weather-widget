@@ -8,7 +8,7 @@ $(document).ready(function(){
 });
 
 function getLocale(unit){ // gets lat and lon
-	$.getJSON("http://ipinfo.io/json?callback=?", function(result){
+	$.getJSON("https://ipinfo.io/json?callback=?", function(result){
 		console.log(result);
 		getWeather(result.loc, unit);
 	});
