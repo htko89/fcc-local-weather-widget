@@ -15,8 +15,6 @@ program: 01 - Front End Development Certification
 course: 09 - Intermediate Front End Development Projects
 project: 01 - Show the Local Weather
 photos:
-  - cover.jpg
-  - cover.jpg
   - mockup-mobile.jpg
 path: code/fcc/local-weather-widget
 ---
